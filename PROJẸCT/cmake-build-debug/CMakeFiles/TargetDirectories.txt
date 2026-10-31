@@ -1,0 +1,3 @@
+D:/CNTT/mon_c_hl/PROJẸCT/cmake-build-debug/CMakeFiles/PROJCT.dir
+D:/CNTT/mon_c_hl/PROJẸCT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CNTT/mon_c_hl/PROJẸCT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
